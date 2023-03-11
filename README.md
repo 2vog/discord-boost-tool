@@ -1,4 +1,4 @@
-<h1 align="center">OGE & 2V Boost Tool</h1>
+<h1 align="center">OGE Boost Tool</h1>
 <p align="center">a Free and Working Boost Tool</p>
 
 This version of the boost tool only supports **Windows**.
